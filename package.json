@@ -13,6 +13,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "chai": "^4.3.4",
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "@types/chai": "^4.2.18",
+    "@types/mocha": "^8.2.2"
   }
 }
